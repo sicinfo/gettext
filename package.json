@@ -1,5 +1,8 @@
 {
   "version": "0.1.0",
   "name": "sicinfo-gettext",
-  "dependencies": {}
+  "main": "lib/gettext.js",
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
 }
