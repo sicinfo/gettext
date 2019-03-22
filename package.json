@@ -3,6 +3,7 @@
   "name": "sicinfo-gettext",
   "main": "lib/gettext.js",
   "devDependencies": {
-    "chai": "^4.2.0"
+    "chai": "^4.2.0",
+    "mocha": "^6.0.2"
   }
 }
